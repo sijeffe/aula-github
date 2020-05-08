@@ -107,6 +107,8 @@ public class Main {
 		System.out.println(xdia );
 		
 		
+		
+		
 		String  stringCondicaoTernaria =  ""; 
 		
 		stringCondicaoTernaria = (dia < 4 )? "Inicio da semana" :  "fim da semana"  ; 
